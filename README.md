@@ -48,5 +48,5 @@ y presentar hallazgos de forma clara y visual.
 
 ---
 
-👤 Autor: *Jesus David Coral*  
-📅 Fecha: Agosto 2025  
+Autor: *David Coral*  
+Fecha: Agosto 2025  
